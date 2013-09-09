@@ -1,7 +1,7 @@
 Getting Started
 ---------------
 
-Welcome to Project CMB - Cyanogemod Baked Style
+Welcome to CMB ROMS - Cyanogemod Baked Style
 
     repo init -u git://github.com/projectcmb/platform_manifest.git -b jb-mr2
 
