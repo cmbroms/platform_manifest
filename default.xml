@@ -9,7 +9,7 @@
             fetch="git://github.com"/>
 
    <remote  name="cmb"
-            fetch="git://github.com/projectcmb/" />
+            fetch="git://github.com/cmbroms/" />
 
   <default revision="refs/heads/cm-10.2"
            remote="github"

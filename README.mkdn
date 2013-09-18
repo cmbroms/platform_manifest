@@ -1,9 +1,9 @@
 Getting Started
 ---------------
 
-Welcome to CMB ROMS - Cyanogemod Baked Style
+Welcome to CMB ROMS - Cyanogemod  with a twist Baked in.
 
-    repo init -u git://github.com/projectcmb/platform_manifest.git -b jb-mr2
+    repo init -u git://github.com/cmbroms/platform_manifest.git -b jb-mr2
 
 Then to sync up:
 
