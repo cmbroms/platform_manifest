@@ -34,6 +34,7 @@
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="cmb" revision="cm-10.2" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cmb" revision="jb-mr2" />
   <project path="vendor/cmb" name="vendor_cmb" remote="cmb" revision="jb-mr2" />
+  <project path="external/koush/Superuser" name="Superuser" remote="cmb" revision="jb-mr2"/>
 
   <!-- End ProjectCMB repos -->
 
@@ -140,7 +141,6 @@
   <project path="external/kissfft" name="CyanogenMod/android_external_kissfft" />
   <project path="external/koush/ion" name="CyanogenMod/ion" />
   <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" />
-  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" />
   <project path="external/koush/Widgets" name="CyanogenMod/Widgets" />
   <project path="external/libcap-ng" name="CyanogenMod/android_external_libcap-ng" />
   <project path="external/libffi" name="CyanogenMod/android_external_libffi" />
