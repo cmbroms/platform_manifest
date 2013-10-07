@@ -11,6 +11,10 @@
    <remote  name="cmb"
             fetch="git://github.com/cmbroms/" />
 
+  <remote  name="tm"
+           fetch="git://github.com/TheMuppets"
+           review="" />
+
   <default revision="refs/heads/cm-10.2"
            remote="github"
            sync-c="true"
@@ -47,8 +51,25 @@
   <project path="device/sony/pollux" name="android_device_sony_pollux" remote="cmb" revision="jb-mr2" />
   <project path="device/sony/pollux_windy" name="android_device_sony_pollux_windy" remote="cmb" revision="jb-mr2" />
   <project path="device/sony/odin" name="android_device_sony_odin" remote="cmb" revision="jb-mr2" />
+  <project path="packages/apps/FmRadio" name="CyanogenMod/android_packages_apps_FMRadio" remote="github" revision="cm-10.2" />
+  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-10.2" />
+  <project path="device/asus/tf700t" name="android_device_asus_tf700t" remote="cmb" revision="jb-mr2" />
 
   <!-- End CMB Roms Device Repos -->
+
+  <!-- Begin Proprietary Vendor Repos -->
+
+<project path="vendor/sony" name="proprietary_vendor_sony" remote="tm" revision="cm-10.2" />
+<project path="vendor/asus" name="proprietary_vendorasus" remote="tm" revision="cm-10.2" />
+
+  <!-- End Vendor Repos -->
+
+  <!-- Begin Kernel Repos -->
+
+ <project name="CyanogenMod/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-10.2" />
+ <project name="CyanogenMod/android_kernel_asus_tf700t" path="kernel/asus/tf700t" remote="github" revision="cm-10.2" />
+
+  <!-- End Kernel Repos -->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
