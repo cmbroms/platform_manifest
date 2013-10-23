@@ -34,8 +34,8 @@
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cmb" revision="jb-mr2" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="cmb" revision="jb-mr2" />
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="cmb" revision="jb-mr2" />
-  <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="cmb" revision="cm-10.2" />
-  <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="cmb" revision="cm-10.2" />
+  <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="cmb" revision="jb-mr2" />
+  <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="cmb" revision="jb-mr2" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cmb" revision="jb-mr2" />
   <project path="vendor/cmb" name="vendor_cmb" remote="cmb" revision="jb-mr2" />
   <project path="external/koush/Superuser" name="Superuser" remote="cmb" revision="jb-mr2"/>
