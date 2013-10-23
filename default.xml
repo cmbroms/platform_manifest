@@ -37,6 +37,7 @@
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="cmb" revision="jb-mr2" />
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="cmb" revision="jb-mr2" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cmb" revision="jb-mr2" />
+  <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cmb" revision="jb-mr2" />
   <project path="vendor/cmb" name="vendor_cmb" remote="cmb" revision="jb-mr2" />
   <project path="external/koush/Superuser" name="Superuser" remote="cmb" revision="jb-mr2"/>
 
@@ -353,7 +354,6 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" />
-  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
