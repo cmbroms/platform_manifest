@@ -55,6 +55,7 @@
   <project path="packages/apps/FmRadio" name="CyanogenMod/android_packages_apps_FMRadio" remote="github" revision="cm-10.2" />
   <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-10.2" />
   <project path="device/asus/tf700t" name="android_device_asus_tf700t" remote="cmb" revision="jb-mr2" />
+  <project path="device/asus/tf300t" name="android_device_asus_tf300t" remote="cmb" revision="cm-10.2" />
   <project path="device/asus/tf201" name="android_device_asus_tf201" remote="cmb" revision="jb-mr2" />
 
   <!-- End CMB Roms Device Repos -->
@@ -70,6 +71,7 @@
 
  <project name="CyanogenMod/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-10.2" />
  <project name="CyanogenMod/android_kernel_asus_tf700t" path="kernel/asus/tf700t" remote="github" revision="cm-10.2" />
+ <project path="kernel/asus/tf300t"name="kernel_asus_tf300t" remote="cmb" revision="jb-mr2" />
  <project name="CyanogenMod/android_kernel_asus_tf201" path="kernel/asus/tf201" remote="github" revision="10.4.2.17-mr1" />
 
   <!-- End Kernel Repos -->
