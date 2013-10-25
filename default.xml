@@ -26,7 +26,7 @@
 
   <!-- CMB Roms repos -->
 
-  <project path="platform_manifest" name="platform_manifest" remote="cmb" revision="jb-mr2"/>
+  <project path="platform_manifest" name="platform_manifest" remote="cmb" revision="jb-mr2" />
   <project path="frameworks/base" name="android_frameworks_base" remote="cmb" revision="jb-mr2" />
   <project path="frameworks/ex" name="android_frameworks_ex" remote="cmb" revision="jb-mr2" />
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="cmb" revision="jb-mr2" />
@@ -39,7 +39,10 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cmb" revision="jb-mr2" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cmb" revision="jb-mr2" />
   <project path="vendor/cmb" name="vendor_cmb" remote="cmb" revision="jb-mr2" />
-  <project path="external/koush/Superuser" name="Superuser" remote="cmb" revision="jb-mr2"/>
+  <project path="external/koush/Superuser" name="Superuser" remote="cmb" revision="jb-mr2" />
+  <project path="development" name="android_development" remote="cmb" revision="jb-mr2" />
+  <project path="packages/apps/Email" name="android_packages_apps_Email" remote="cmb" revision="jb-mr2.1" />
+  <project path="packages/apps/Exchange" name="android_packages_apps_Exchange" remote="cmb" revision="jb-mr2" />
 
   <!-- End CMB Roms repos -->
 
@@ -86,7 +89,6 @@
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
-  <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" groups="pdk" />
