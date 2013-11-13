@@ -56,8 +56,9 @@
 
   <!-- Begin Proprietary Vendor Repos -->
 
-<project path="vendor/sony" name="proprietary_vendor_sony" remote="tm" revision="cm-10.2" />
-<project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.2" />
+  <project path="vendor/sony" name="proprietary_vendor_sony" remote="tm" revision="cm-10.2" />
+  <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.2" />
+  <project path="vendor/lge" name="proprietary_vendor_lge" remote="tm" revision="kk4.4" /> 
 
   <!-- End Vendor Repos -->
 
