@@ -33,6 +33,8 @@
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cmb" revision="kk4.4" />
   <project path="vendor/cmb" name="vendor_cmb" remote="cmb" revision="kk4.4" />
+  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cmb" revision="kk4.4" />
+  <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cmb" revision="kk4.4" />
 
   <!-- End CMB Roms repos -->
 
@@ -76,8 +78,6 @@
 
 <!--  <project path="frameworks/native" name="android_frameworks_native" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="cmb" revision="kk4.4" />
-  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cmb" revision="kk4.4" />
-  <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cmb" revision="kk4.4" />
