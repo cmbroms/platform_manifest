@@ -61,6 +61,8 @@
   <project path="device/asus/tf700t" name="android_device_asus_tf700t" remote="cmb" revision="jb-mr2" />
   <project path="device/asus/tf300t" name="android_device_asus_tf300t" remote="cmb" revision="jb-mr2" />
   <project path="device/asus/tf201" name="android_device_asus_tf201" remote="cmb" revision="jb-mr2" />
+  <project path="device/lge/d800" name="android_device_lge_d800" remote="cmb" revision="jb-mr2" />
+  <project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="cmb" revision="jb-mr2" />
 
   <!-- End CMB Roms Device Repos -->
 
@@ -68,6 +70,7 @@
 
 <project path="vendor/sony" name="proprietary_vendor_sony" remote="tm" revision="cm-10.2" />
 <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.2" />
+<project path="vendor/lge" name="proprietary_vendor_lge" remote="tm" revision="cm-10.2" />
 
   <!-- End Vendor Repos -->
 
@@ -77,6 +80,7 @@
  <project name="CyanogenMod/android_kernel_asus_tf700t" path="kernel/asus/tf700t" remote="github" revision="cm-10.2" />
  <project path="kernel/asus/tf300t" name="kernel_asus_tf300t" remote="cmb" revision="jb-mr2" />
  <project name="CyanogenMod/android_kernel_asus_tf201" path="kernel/asus/tf201" remote="github" revision="10.4.2.17-mr1" />
+ <project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="cmb" revision="jb-mr2" />
 
   <!-- End Kernel Repos -->
 
@@ -334,10 +338,12 @@
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" groups="caf" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" groups="qcom" />
+  <project path="hardware/qcom/display-mdss" name="CyanogenMod/android_hardware_qcom_display-mdss" groups="qcom" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" groups="caf" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media-v412" name="CyanogenMod/android_hardware_qcom_media-v412" groups="qcom" />
   <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" groups="caf" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" groups="qcom_msm8960" />
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" />
