@@ -63,6 +63,7 @@
   <project path="device/asus/tf201" name="android_device_asus_tf201" remote="cmb" revision="jb-mr2" />
   <project path="device/lge/d800" name="android_device_lge_d800" remote="cmb" revision="jb-mr2" />
   <project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="cmb" revision="jb-mr2" />
+  <project path="device/lge/awifi" name="android_device_lge_awifi" remote="cmb" revision="jb-mr2" />
 
   <!-- End CMB Roms Device Repos -->
 
@@ -81,6 +82,7 @@
  <project path="kernel/asus/tf300t" name="kernel_asus_tf300t" remote="cmb" revision="jb-mr2" />
  <project name="CyanogenMod/android_kernel_asus_tf201" path="kernel/asus/tf201" remote="github" revision="10.4.2.17-mr1" />
  <project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="cmb" revision="jb-mr2" />
+ <project path="kernel/lge/awifi" name="android_kernel_lge_awifi" remote="cmb" revision="kk4.4" />
 
   <!-- End Kernel Repos -->
 
