@@ -42,6 +42,8 @@
   <!-- CMB Roms Device Repos -->
 
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="cmb" revision="kk4.4" />
+  <project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="cmb" revision="kk4.4" />
+  <project path="device/lge/d800" name="android_device_lge_d800" remote="cmb" revision="kk4.4" />
   <project path="device/sony/common" name="android_device_sony_common" remote="cmb" revision="kk4.4" />
   <project path="device/sony/qcom-common" name="android_device_sony_qcom-common" remote="cmb" revision="kk4.4" />
   <project path="device/sony/fusion3-common" name="android_device_sony_fusion3-common" remote="cmb" revision="kk4.4" />
@@ -67,6 +69,7 @@
   <!-- Begin Kernel Repos -->
 
  <project path="kernel/lge/hammerhead" name="android_kernel_lge_hammerhead" remote="cmb" revision="kk4.4" />
+ <project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="cmb" revision="jb-mr2" />
  <project name="CyanogenMod/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_asus_tf700t" path="kernel/asus/tf700t" remote="github" revision="cm-11.0" />
  <project path="kernel/asus/tf300t" name="kernel_asus_tf300t" remote="cmb" revision="jb-mr2" />
