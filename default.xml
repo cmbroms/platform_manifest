@@ -70,7 +70,7 @@
   <!-- Begin Kernel Repos -->
 
  <project path="kernel/lge/hammerhead" name="android_kernel_lge_hammerhead" remote="cmb" revision="kk4.4" />
- <project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="cmb" revision="jb-mr2" />
+ <project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="cmb" revision="kk4.4" />
  <project name="CyanogenMod/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_asus_tf700t" path="kernel/asus/tf700t" remote="github" revision="cm-11.0" />
  <project path="kernel/asus/tf300t" name="kernel_asus_tf300t" remote="cmb" revision="jb-mr2" />
