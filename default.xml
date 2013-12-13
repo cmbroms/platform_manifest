@@ -46,6 +46,9 @@
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="cmb" revision="kk4.4" />
   <project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="cmb" revision="kk4.4" />
   <project path="device/lge/d800" name="android_device_lge_d800" remote="cmb" revision="kk4.4" />
+  <project path="device/lge/d801" name="android_device_lge_d801" remote="cmb" revision="kk4.4" />
+  <project path="device/lge/d802" name="android_device_lge_d802" remote="cmb" revision="kk4.4" />
+  <project path="device/lge/vs980" name="android_device_lge_vs980" remote="cmb" revision="kk4.4" />
   <project path="device/sony/common" name="android_device_sony_common" remote="cmb" revision="kk4.4" />
   <project path="device/sony/qcom-common" name="android_device_sony_qcom-common" remote="cmb" revision="kk4.4" />
   <project path="device/sony/fusion3-common" name="android_device_sony_fusion3-common" remote="cmb" revision="kk4.4" />
