@@ -83,7 +83,7 @@
  <project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="cmb" revision="kk4.4" />
  <project name="CyanogenMod/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_asus_tf700t" path="kernel/asus/tf700t" remote="github" revision="cm-11.0" />
- <project path="CyanogenMod/kernel/asus/tf300t" name="kernel_asus_tf300t" remote="github" revision="cm-11.0" />
+ <project name="CyanogenMod/android_kernel_asus_tf300t" path="kernel/asus/tf300t" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_asus_tf201" path="kernel/asus/tf201" remote="github" revision="10.4.2.17-mr1" />
  <project name="CyanogenMod/android_kernel_htc_m7" path="kernel/htc/m7" remote="github" revision="cm-11.0" />
  <project path="kernel/lge/v500" name="android_kernel_lge_v500" remote="cmb" revision="cm" />
