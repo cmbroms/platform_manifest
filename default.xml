@@ -71,7 +71,7 @@
 
   <!-- Begin Proprietary Vendor Repos -->
 
-  <project path="vendor/sony" name="proprietary_vendor_sony" remote="cmb" revision="cm-11.0" />
+  <project path="vendor/sony" name="proprietary_vendor_sony" remote="cmb" revision="kk4.4" />
   <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-11.0" />
   <project path="vendor/htc" name="proprietary_vendor_htc" remote="tm" revision="cm-11.0" />
   <project path="vendor/lge" name="vendor_lge" remote="cmb" revision="cm" /> 
