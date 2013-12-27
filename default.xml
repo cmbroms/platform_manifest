@@ -66,6 +66,7 @@
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cmb" revision="kk4.4" />
   <project path="device/htc/m7vzw" name="android_device_htc_m7vzw" remote="cmb" revision="kk4.4" />
   <project path="device/lge/v500" name="android_device_lge_v500" remote="cmb" revision="kk4.4" />
+  <project path="device/lge/mako" name="android_device_lge_mako" remote="cmb" revision="kk4.4" />
 
 
   <!-- End CMB Roms Device Repos -->
@@ -89,6 +90,8 @@
  <project name="CyanogenMod/android_kernel_asus_tf201" path="kernel/asus/tf201" remote="github" revision="10.4.2.17-mr1" />
  <project name="CyanogenMod/android_kernel_htc_m7" path="kernel/htc/m7" remote="github" revision="cm-11.0" />
  <project path="kernel/lge/v500" name="android_kernel_lge_v500" remote="cmb" revision="kk4.4" />
+ <project name="CyanogenMod/android_kernel_google_msm" path="kernel/lge/mako" remote="github" revision="cm-11.0" />
+
 
   <!-- End Kernel Repos -->
 
