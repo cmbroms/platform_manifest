@@ -61,7 +61,7 @@
   <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-11.0" />
   <project path="device/asus/tf700t" name="android_device_asus_tf700t" remote="cmb" revision="kk4.4" />
   <project path="device/asus/tf300t" name="android_device_asus_tf300t" remote="cmb" revision="kk4.4" />
-  <project path="device/asus/tf201" name="android_device_asus_tf201" remote="cmb" revision="jb-mr2" />
+  <project path="device/asus/tf201" name="android_device_asus_tf201" remote="cmb" revision="kk4.4" />
   <project path="device/htc/m7-common" name="android_device_htc_m7-common" remote="cmb" revision="kk4.4" />
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cmb" revision="kk4.4" />
   <project path="device/htc/m7vzw" name="android_device_htc_m7vzw" remote="cmb" revision="kk4.4" />
