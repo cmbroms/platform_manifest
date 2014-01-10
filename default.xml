@@ -37,8 +37,6 @@
   <project path="vendor/cmb" name="vendor_cmb" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cmb" revision="kk4.4" />
-  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="cmb" revision="kk4.4" />
-  <project path="system/core" name="android_system_core" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="cmb" revision="kk4.4" />
 
   <!-- End CMB Roms repos -->
@@ -309,7 +307,6 @@
   <project path="external/protobuf" name="CyanogenMod/android_external_protobuf" groups="pdk" />
   <project path="external/qemu" name="CyanogenMod/android_external_qemu" />
   <project path="external/qemu-pc-bios" name="CyanogenMod/android_external_qemu-pc-bios" />
-  <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" />
   <project path="external/regex-re2" name="CyanogenMod/android_external_regex-re2" />
   <project path="external/replicaisland" name="CyanogenMod/android_external_replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -428,6 +425,7 @@
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/InCallUI" name="CyanogenMod/android_packages_apps_InCallUI" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
+  <project path="packages/apps/Launcher3" name="CyanogenMod/android_packages_apps_Launcher3" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -517,6 +515,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" groups="pdk,tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
+  <project path="system/core" name="CyanogenMod/android_system_core" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" />
   <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" />
