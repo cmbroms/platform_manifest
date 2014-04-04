@@ -38,6 +38,7 @@
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cmb" revision="kk4.4" />
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="cmb" revision="kk4.4" />
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-11.0" />
 
   <!-- End CMB Roms repos -->
 
