@@ -69,6 +69,9 @@
   <project path="device/amazon/otter-common" name="android_device_amazon_otter-common" remote="cmb" revision="kk4.4" />
   <project path="device/amazon/omap4-common" name="android_device_amazon_omap4-common" remote="cmb" revision="kk4.4" />
   <project path="device/samsung/manta" name="android_device_samsung_manta" remote="cmb" revision="kk4.4" />
+  <project path="device/samsung/n5110" name="android_device_samsung_n5110" remote="cmb" revision="kk4.4" />
+  <project path="device/samsung/smdk4412-common" name="android_device_samsung_smdk4412-common" remote="cmb" revision="kk4.4" />
+  <project path="device/samsung/kona-common" name="android_device_samsung_kona-common" remote="cmb" revision="kk4.4" />
 
   <!-- End CMB Roms Device Repos -->
 
@@ -97,7 +100,7 @@
  <project name="CyanogenMod/android_kernel_google_msm" path="kernel/lge/mako" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_amazon_otter-common" path="kernel/amazon/otter-common" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_samsung_manta" path="kernel/samsung/manta" remote="github" revision="cm-11.0" />
-
+ <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-11.0" />
 
   <!-- End Kernel Repos -->
 
