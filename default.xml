@@ -89,7 +89,7 @@
   <project path="vendor/lge" name="vendor_lge" remote="cmb" revision="kk4.4" /> 
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-11.0" />
   <project path="vendor/amazon" name="proprietary_vendor_amazon" remote="tm" revision="cm-11.0" />
-  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-11.0" />
+  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="cmb" revision="kk4.4" />
 
   <!-- End Vendor Repos -->
 
