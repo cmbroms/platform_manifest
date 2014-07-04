@@ -107,7 +107,7 @@
  <project name="CyanogenMod/android_kernel_amazon_otter-common" path="kernel/amazon/otter-common" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_samsung_manta" path="kernel/samsung/manta" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-11.0" />
- <project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" path="kernel/motorola/msm8960dt-common" remote="github" revision="cm-11.0" />
+ <project name="android_kernel_motorola_msm8960dt-common" path="kernel/motorola/msm8960dt-common" remote="cmb" revision="kk4.4" />
 
   <!-- End Kernel Repos -->
 
