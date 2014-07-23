@@ -80,7 +80,8 @@
   <project path="device/motorola/qcom-common" name="android_device_motorola_qcom-common" remote="cmb" revision="kk4.4" />
   <project path="device/qcom/common" name="android_device_qcom_common" remote="cmb" revision="kk4.4" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cmb" revision="kk4.4" />
-  <project path="device/samsung/msm8974-common" name="aandroid_device_samsung_msm8974-common" remote="cmb" revision="kk4.4" />
+  <project path="device/samsung/msm8974-common" name="android_device_samsung_msm8974-common" remote="cmb" revision="kk4.4" />
+  <project path="device/samsung/mondrianwifi" name="android_device_samsung_mondrianwifi" remote="cmb" revision="kk4.4" />
 
   <!-- End CMB Roms Device Repos -->
 
@@ -112,7 +113,7 @@
  <project name="CyanogenMod/android_kernel_samsung_manta" path="kernel/samsung/manta" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-11.0" />
  <project name="android_kernel_motorola_msm8960dt-common" path="kernel/motorola/msm8960dt-common" remote="cmb" revision="kk4.4" />
- <project name="android_kernel_samsung_mondrianwifi" path="kernel/samsung/mondrianwifi" remote="github" revision="cm-11.0" />
+ <project name="CyanogenMod/android_kernel_samsung_mondrianwifi" path="kernel/samsung/mondrianwifi" remote="github" revision="cm-11.0" />
 
   <!-- End Kernel Repos -->
 
