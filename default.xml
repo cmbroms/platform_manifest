@@ -108,6 +108,7 @@
  <project name="CyanogenMod/android_kernel_asus_tf300t" path="kernel/asus/tf300t" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_asus_tf201" path="kernel/asus/tf201" remote="github" revision="10.4.2.17-mr1" />
  <project name="CyanogenMod/android_kernel_htc_m7" path="kernel/htc/m7" remote="github" revision="cm-11.0" />
+ <project name="CyanogenMod/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="cm-11.0" />
  <project path="kernel/lge/v500" name="android_kernel_lge_v500" remote="cmb" revision="kk4.4" />
  <project name="CyanogenMod/android_kernel_google_msm" path="kernel/lge/mako" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_amazon_otter-common" path="kernel/amazon/otter-common" remote="github" revision="cm-11.0" />
