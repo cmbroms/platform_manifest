@@ -113,7 +113,7 @@
  <project name="CyanogenMod/android_kernel_amazon_otter-common" path="kernel/amazon/otter-common" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_samsung_manta" path="kernel/samsung/manta" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-11.0" />
- <project name="CyanogenMod/android_kernel_ghost" path="kernel/motorola/ghost" remote="cm" revision="cm-11.0" />
+ <project name="CyanogenMod/android_kernel_ghost" path="kernel/motorola/ghost" remote="github" revision="cm-11.0" />
  <project name="CyanogenMod/android_kernel_samsung_mondrianwifi" path="kernel/samsung/mondrianwifi" remote="github" revision="cm-11.0" />
 
   <!-- End Kernel Repos -->
