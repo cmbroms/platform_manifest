@@ -25,7 +25,7 @@
   </project>
 
   <!-- CMB Roms repos -->
-
+<!--
   <project path="platform_manifest" name="platform_manifest" remote="cmb" revision="kk4.4" />
   <project path="frameworks/base" name="android_frameworks_base" remote="cmb" revision="kk4.4" />
   <project path="frameworks/ex" name="android_frameworks_ex" remote="cmb" revision="kk4.4" />
@@ -42,11 +42,11 @@
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="cmb" revision="kk4.4" />
   <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" remote="github" revision="cm-12.0" />
   <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" remote="github" revision="cm-12.0" />
-
+-->
   <!-- End CMB Roms repos -->
 
   <!-- CMB Roms Device Repos -->
-
+<!--
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="cmb" revision="kk4.4" />
   <project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="cmb" revision="kk4.4" />
   <project path="device/lge/d800" name="android_device_lge_d800" remote="cmb" revision="kk4.4" />
@@ -82,11 +82,11 @@
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cmb" revision="kk4.4" />
   <project path="device/samsung/msm8974-common" name="android_device_samsung_msm8974-common" remote="cmb" revision="kk4.4" />
   <project path="device/samsung/mondrianwifi" name="android_device_samsung_mondrianwifi" remote="cmb" revision="kk4.4" />
-
+-->
   <!-- End CMB Roms Device Repos -->
 
   <!-- Begin Proprietary Vendor Repos -->
-
+<!--
   <project path="vendor/sony" name="proprietary_vendor_sony" remote="cmb" revision="kk4.4" />
   <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-12.0" />
   <project path="vendor/htc" name="proprietary_vendor_htc" remote="tm" revision="cm-12.0" />
@@ -94,13 +94,12 @@
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-12.0" />
   <project path="vendor/amazon" name="proprietary_vendor_amazon" remote="tm" revision="cm-12.0" />
   <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-12.0" />
-
+-->
   <!-- End Vendor Repos -->
 
   <!-- Begin Kernel Repos -->
-
+<!--
  <project name="CyanogenMod/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="cm-12.0" />
- <!-- <project path="kernel/lge/hammerhead" name="android_kernel_lge_hammerhead" remote="cmb" revision="kk4.4" /> -->
  <project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="cmb" revision="kk4.4" />
  <project name="CyanogenMod/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-12.0" />
  <project name="CyanogenMod/android_kernel_asus_tf700t" path="kernel/asus/tf700t" remote="github" revision="cm-12.0" />
@@ -115,7 +114,7 @@
  <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-12.0" />
  <project name="android_kernel_motorola_ghost" path="kernel/motorola/ghost" remote="cmb" revision="kk4.4" />
  <project name="CyanogenMod/android_kernel_samsung_mondrianwifi" path="kernel/samsung/mondrianwifi" remote="github" revision="cm-12.0" />
-
+-->
   <!-- End Kernel Repos -->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
