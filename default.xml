@@ -24,9 +24,10 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
+<project path="platform_manifest" name="platform_manifest" remote="cmb" revision="lp" />
+
   <!-- CMB Roms repos -->
 <!--
-  <project path="platform_manifest" name="platform_manifest" remote="cmb" revision="kk4.4" />
   <project path="frameworks/base" name="android_frameworks_base" remote="cmb" revision="kk4.4" />
   <project path="frameworks/ex" name="android_frameworks_ex" remote="cmb" revision="kk4.4" />
   <project path="frameworks/av" name="android_frameworks_av" remote="cmb" revision="kk4.4" />
