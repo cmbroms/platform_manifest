@@ -16,7 +16,7 @@
            fetch="git://github.com/TheMuppets"
            review="" />
 
-  <default revision=""
+  <default revision="cm-12.0"
            remote="github"
            sync-c="true"
            sync-j="4" />
